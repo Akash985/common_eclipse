@@ -1,6 +1,7 @@
 package com.capgemini.module;
 
 public class UserModule {
+
 	public void registration() {
 		System.out.println("registration functionality");
 	}
@@ -8,4 +9,9 @@ public class UserModule {
 public void registration1() {
 	System.out.println("registration functionality");
 }
+	public void login() {
+		System.out.println("login functionality");
+	}
+
+
 }
